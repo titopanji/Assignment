@@ -1,0 +1,10 @@
+D:\Pemrograman Lanjut\CalculatorApp\CalculatorWindowsFormsApp\bin\Debug\CalculatorWindowsFormsApp.exe.config
+D:\Pemrograman Lanjut\CalculatorApp\CalculatorWindowsFormsApp\bin\Debug\CalculatorWindowsFormsApp.exe
+D:\Pemrograman Lanjut\CalculatorApp\CalculatorWindowsFormsApp\bin\Debug\CalculatorWindowsFormsApp.pdb
+D:\Pemrograman Lanjut\CalculatorApp\CalculatorWindowsFormsApp\obj\Debug\CalculatorWindowsFormsApp.csprojAssemblyReference.cache
+D:\Pemrograman Lanjut\CalculatorApp\CalculatorWindowsFormsApp\obj\Debug\CalculatorWindowsFormsApp.Form1.resources
+D:\Pemrograman Lanjut\CalculatorApp\CalculatorWindowsFormsApp\obj\Debug\CalculatorWindowsFormsApp.Properties.Resources.resources
+D:\Pemrograman Lanjut\CalculatorApp\CalculatorWindowsFormsApp\obj\Debug\CalculatorWindowsFormsApp.csproj.GenerateResource.cache
+D:\Pemrograman Lanjut\CalculatorApp\CalculatorWindowsFormsApp\obj\Debug\CalculatorWindowsFormsApp.csproj.CoreCompileInputs.cache
+D:\Pemrograman Lanjut\CalculatorApp\CalculatorWindowsFormsApp\obj\Debug\CalculatorWindowsFormsApp.exe
+D:\Pemrograman Lanjut\CalculatorApp\CalculatorWindowsFormsApp\obj\Debug\CalculatorWindowsFormsApp.pdb
